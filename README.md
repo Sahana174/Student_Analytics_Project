@@ -10,43 +10,30 @@ This project identifies trends such as **average marks by subject**, **attendanc
 
 ##  How It Works
 
-### 1️⃣ Environment Setup
+ 1️⃣ Environment Setup
 Uses **Python 3.13+**, `pandas`, and `openpyxl` for data analysis.  
 Install dependencies easily using:
 ```bash
 pip install -r requirements.txt
+
 2️⃣ Data Preparation
-
 The dataset (student_scores.csv) contains:
-
 Student ID
-
 Name
-
 Subject
-
 Marks
-
 Attendance
-
 Pass/Fail status
-
 Python script (analyze_scores.py) cleans the data and generates a summary (student_summary.xlsx) showing average marks and attendance per subject.
 
 3️⃣ Dashboard Visualization
-
 Import the summary file into Power BI to create:
-
 📊 Clustered Column Chart (Average Marks per Subject)
-
 🎯 Scatter Plot (Attendance vs Marks)
-
 🍩 Donut Chart (Pass vs Fail Ratio)
-
 Finally, export the dashboard as Student_Performance_Dashboard.pdf.
 
 📊 Insights
-
 📈 Students with higher attendance generally achieve better marks.
 📘 Science shows the highest average marks.
 📉 Math has improvement potential compared to other subjects.
@@ -92,3 +79,4 @@ README.md → Project overview and setup guide
 🔗 Project Source Code
 
 GitHub Repository: Student_Analytics_Project
+
