@@ -1,7 +1,7 @@
 # 🎓 Student Performance Analytics
 
 ##  Overview
-A simple data analytics project that studies how attendance affects student marks using **Python**, **Excel**, and **Power BI**.
+This project analyzes student performance data using **Python**, **Excel**, and **Power BI** to uncover key academic insights.  
 
 ##  Key Features
 - Analyze average marks by subject  
@@ -34,3 +34,4 @@ A simple data analytics project that studies how attendance affects student mark
 🔗 **Project Source:** [Student_Analytics_Project](https://github.com/Sahana174/Student_Analytics_Project)
 
 - 
+
